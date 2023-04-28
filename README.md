@@ -1,5 +1,5 @@
 # Financiamento de veículos
->Fiananciamento de Veículos em java, utilizando JFrame no NetBeans.
+>Fiananciamento de Veículos em java, utilizando JFrame no NetBeans. Mini projeto da Faculdade
 
 ```shift + F6```, no arquivo main para rodar o projeto.
 É um projeto pequeno, e não foi utilizado nehunm banco de dados. É possível cadastrar novos usuários que ficaram "salvos" durante a execussão do progrma, porém, já existe um usuário cadastrado por padrão: ```usuário: adm, senha: adm```, com o qual será possível acessar a janela de edições para alterar, excluir e adicionar os dados dos veículos.
