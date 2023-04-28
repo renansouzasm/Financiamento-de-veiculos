@@ -33,6 +33,6 @@ Por seu um projeto pequeno, e meu primeiro contato com jframe, não está tão c
     <th>Tela de Edição</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/101893896/235174054-e08ced9e-1869-44e9-97a0-7ff6c9dcd8e4.png" alt="preview"/></td>
+    <td><img src="https://user-images.githubusercontent.com/101893896/235174048-6eda95cb-05bc-4b2e-8f55-9aadb43bd417.png" alt="preview"/></td>
   </tr>
 </table>
