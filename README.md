@@ -16,7 +16,7 @@ Por seu um projeto pequeno, e meu primeiro contato com jframe, não está tão c
   </tr>
   
   <tr>
-    <th>Tela de Catalogo</th>
+    <th>Tela de Catálogo</th>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/101893896/235174045-8bedce4b-4782-4006-bd1a-58938311a9cc.png" alt="preview"/></td>
