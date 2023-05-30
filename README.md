@@ -8,7 +8,7 @@ Por seu um projeto pequeno, e meu primeiro contato com jframe, não está tão c
 
 <table>
   <tr>
-    <th>Telas de Login e Cadastro</th>
+    <th colspan=2>Telas de Login e Cadastro</th>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/101893896/235174054-e08ced9e-1869-44e9-97a0-7ff6c9dcd8e4.png" alt="preview"/>
